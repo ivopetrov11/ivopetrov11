@@ -18,12 +18,12 @@ Here are some ideas to get you started:
 
 ## 👋 Hey, I’m Ivo
 
-I’m a **Business Intelligence Analyst** transitioning into **Data Science**, blending strong BI foundations with a growing focus on **predictive analytics** and **automation**.  
+I’m a **Business Intelligence Analyst** transitioning into **Data Science**, blending strong BI foundations with a growing focus on **Predictive Analytics** and **Automation**.  
 Passionate about turning raw data into actionable insights, I’m always exploring ways to make analytics smarter, faster, and more impactful.
 
 ---
 
-- 🔭 Exploring **predictive analytics** & **data automation**  
+- 🔭 Exploring **Predictive Analytics** & **Data Automation**  
 - 🌱 Learning **Python for ML** & **advanced SQL**  
 - 👯 Open to **Data Science** & **BI projects**  
 - 💬 Ask me about **Power BI**, **Power Query**, **DAX**, **Tableau**  
