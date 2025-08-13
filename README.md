@@ -33,9 +33,6 @@ Passionate about turning raw data into actionable insights, I’m always explori
 ---
 
 <!-- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/petrov-y-ivo/) | [GitHub](https://github.com/ivopetrov11)  -->
----
-
----
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/petrov-y-ivo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:petrov.y.ivo@gmail.com) 
