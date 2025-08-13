@@ -27,12 +27,15 @@ Passionate about turning raw data into actionable insights, I’m always explori
 - 🌱 Learning **Python for ML** & **advanced SQL**  
 - 👯 Open to **Data Science** & **BI projects**  
 - 💬 Ask me about **Power BI**, **Power Query**, **DAX**, **Tableau**  
-- ⚡ Created a churn model hitting ~**80% accuracy**, guiding client retention  
+- ⚡ Created a churn model hitting ~**80% accuracy**, guiding client retention
+- 📚 Portfolio with BI Case Studies in [Google Drive](https://drive.google.com/drive/folders/1sUyw1ASoWWvJTCwa3gmawOTmtS8x0xUm?usp=sharing)
 
 ---
 
 <!-- 📫 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/petrov-y-ivo/) | [GitHub](https://github.com/ivopetrov11)  -->
+---
 
+---
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/petrov-y-ivo/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:petrov.y.ivo@gmail.com) 
